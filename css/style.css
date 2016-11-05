@@ -1,0 +1,10 @@
+body {
+  font-family: "Righteous", cursive;
+}
+#footer {
+  width: 100%;
+  height: 40px;
+  margin: 0 auto;
+  text-align: left;
+  font-family: Arial;
+}
